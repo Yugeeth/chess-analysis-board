@@ -1,5 +1,5 @@
 # chess-analysis-board
-#
+# goto the [chess ananlysis noard](https://chessanalysisboard.herokuapp.com/)
 # Contribution Guide
 Before making any contributions, go to the Issues section and
 describe the issue or the bug you found clearly with images.
